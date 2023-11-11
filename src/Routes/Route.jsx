@@ -9,6 +9,7 @@ import ProductMarketing from "../Pages/Dashboard/ProductMarketing/ProductMarketi
 import PaidMarketing from "../Pages/Dashboard/PaidMarketing/PaidMarketing";
 import OrganicMarketing from "../Pages/Dashboard/OrganicMarketing/OrganicMarketing";
 import UpdateDocument from "../Pages/Dashboard/Shared/UpdateDocument";
+import CreateDocument from "../Pages/Dashboard/Shared/CreateDocument";
 
 export const router = createBrowserRouter([
   {
@@ -52,6 +53,10 @@ export const router = createBrowserRouter([
       {
         path: "update/:id",
         element: <UpdateDocument></UpdateDocument>,
+      },
+      {
+        path: "add-document",
+        element: <CreateDocument></CreateDocument>,
       },
     ],
   },

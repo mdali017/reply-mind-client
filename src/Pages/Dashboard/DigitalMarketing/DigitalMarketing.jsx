@@ -44,7 +44,12 @@ const DigitalMarketing = () => {
     <div className="p-5">
       <div className="flex justify-between mb-5">
         <h1>Digital Marketing</h1>
-        <button className="btn btn-outline btn-secondary">Add</button>
+        <Link
+          to="/dashboard/add-document"
+          className="btn btn-outline btn-secondary"
+        >
+          Add
+        </Link>
       </div>
 
       <div className="overflow-x-auto">
