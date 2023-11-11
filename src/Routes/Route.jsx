@@ -8,6 +8,7 @@ import DigitalMarketing from "../Pages/Dashboard/DigitalMarketing/DigitalMarketi
 import ProductMarketing from "../Pages/Dashboard/ProductMarketing/ProductMarketing";
 import PaidMarketing from "../Pages/Dashboard/PaidMarketing/PaidMarketing";
 import OrganicMarketing from "../Pages/Dashboard/OrganicMarketing/OrganicMarketing";
+import UpdateDocument from "../Pages/Dashboard/Shared/UpdateDocument";
 
 export const router = createBrowserRouter([
   {
@@ -47,6 +48,10 @@ export const router = createBrowserRouter([
       {
         path: "organic-marketing",
         element: <OrganicMarketing />,
+      },
+      {
+        path: "update/:id",
+        element: <UpdateDocument></UpdateDocument>,
       },
     ],
   },
