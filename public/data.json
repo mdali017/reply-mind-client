@@ -2,176 +2,176 @@
     {
         "name": "conversion rate",
         "category": "grouth-marketing",
-        "weekly-coast": 10,
-        "total-employee": 20,
+        "weekly_coast": 10,
+        "total_employee": 20,
         "revenue": 100
     },
     {
         "name": "retention rate",
         "category": "grouth-marketing",
-        "weekly-coast": 15,
-        "total-employee": 22,
+        "weekly_coast": 15,
+        "total_employee": 22,
         "revenue": 120
     },
     {
         "name": "churn rate",
         "category": "grouth-marketing",
-        "weekly-coast": 8,
-        "total-employee": 15,
+        "weekly_coast": 8,
+        "total_employee": 15,
         "revenue": 80
     },
     {
         "name": "content marketing ROI",
         "category": "grouth-marketing",
-        "weekly-coast": 30,
-        "total-employee": 40,
+        "weekly_coast": 30,
+        "total_employee": 40,
         "revenue": 120
     },
     {
         "name": "mobile marketing metrics",
         "category": "grouth-marketing",
-        "weekly-coast": 10,
-        "total-employee": 20,
+        "weekly_coast": 10,
+        "total_employee": 20,
         "revenue": 100
     },
     {
         "name": "Search Engine Optimization (SEO)",
         "category": "digital-marketing",
-        "weekly-coast": 60,
-        "total-employee": 90,
+        "weekly_coast": 60,
+        "total_employee": 90,
         "revenue": 200
     },
     {
         "name": "Pay-Per-Click (PPC)",
         "category": "digital-marketing",
-        "weekly-coast": 30,
-        "total-employee": 50,
+        "weekly_coast": 30,
+        "total_employee": 50,
         "revenue": 210
     },
     {
         "name": "Social Media Marketing (SMM)",
         "category": "digital-marketing",
-        "weekly-coast": 60,
-        "total-employee": 90,
+        "weekly_coast": 60,
+        "total_employee": 90,
         "revenue": 250
     },
     {
         "name": "Content Marketing",
         "category": "digital-marketing",
-        "weekly-coast": 100,
-        "total-employee": 130,
+        "weekly_coast": 100,
+        "total_employee": 130,
         "revenue": 260
     },
     {
         "name": "Email Marketing",
         "category": "digital-marketing",
-        "weekly-coast": 70,
-        "total-employee": 80,
+        "weekly_coast": 70,
+        "total_employee": 80,
         "revenue": 100
     },
     {
         "name": "Market Research",
         "category": "product-marketing",
-        "weekly-coast": 100,
-        "total-employee": 180,
+        "weekly_coast": 100,
+        "total_employee": 180,
         "revenue": 600
     },
     {
         "name": "Product Positioning",
         "category": "product-marketing",
-        "weekly-coast": 300,
-        "total-employee": 280,
+        "weekly_coast": 300,
+        "total_employee": 280,
         "revenue": 300
     },
     {
         "name": "Target Audience Segmentation",
         "category": "product-marketing",
-        "weekly-coast": 120,
-        "total-employee": 80,
+        "weekly_coast": 120,
+        "total_employee": 80,
         "revenue": 500
     },
     {
         "name": "Value Proposition",
         "category": "product-marketing",
-        "weekly-coast": 170,
-        "total-employee": 90,
+        "weekly_coast": 170,
+        "total_employee": 90,
         "revenue": 300
     },
     {
         "name": "Product Messaging",
         "category": "product-marketing",
-        "weekly-coast": 120,
-        "total-employee": 60,
+        "weekly_coast": 120,
+        "total_employee": 60,
         "revenue": 260
     },
     {
         "name": "Pay-Per-Click (PPC) Advertising",
         "category": "paid-marketing",
-        "weekly-coast": 110,
-        "total-employee": 70,
+        "weekly_coast": 110,
+        "total_employee": 70,
         "revenue": 220
     },
     {
         "name": "Display Advertising",
         "category": "paid-marketing",
-        "weekly-coast": 170,
-        "total-employee": 90,
+        "weekly_coast": 170,
+        "total_employee": 90,
         "revenue": 210
     },
     {
         "name": "Social Media Advertising",
         "category": "paid-marketing",
-        "weekly-coast": 130,
-        "total-employee": 70,
+        "weekly_coast": 130,
+        "total_employee": 70,
         "revenue": 240
     },
     {
         "name": "Native Advertising",
         "category": "paid-marketing",
-        "weekly-coast": 110,
-        "total-employee": 30,
+        "weekly_coast": 110,
+        "total_employee": 30,
         "revenue": 270
     },
     {
         "name": "Video Advertising",
         "category": "paid-marketing",
-        "weekly-coast": 170,
-        "total-employee": 80,
+        "weekly_coast": 170,
+        "total_employee": 80,
         "revenue": 230
     },
     {
         "name": "Social Media Marketing (Organic)",
         "category": "organic-marketing",
-        "weekly-coast": 10,
-        "total-employee": 70,
+        "weekly_coast": 10,
+        "total_employee": 70,
         "revenue": 200
     },
     {
         "name": "Email Marketing (Organic)",
         "category": "organic-marketing",
-        "weekly-coast": 12,
-        "total-employee": 60,
+        "weekly_coast": 12,
+        "total_employee": 60,
         "revenue": 240
     },
     {
         "name": "Social Proof and Reviews",
         "category": "organic-marketing",
-        "weekly-coast": 17,
-        "total-employee": 90,
+        "weekly_coast": 17,
+        "total_employee": 90,
         "revenue": 230
     },
     {
         "name": "Public Relations (PR)",
         "category": "organic-marketing",
-        "weekly-coast": 13,
-        "total-employee": 67,
+        "weekly_coast": 13,
+        "total_employee": 67,
         "revenue": 81
     },
     {
         "name": "Content Syndication",
         "category": "organic-marketing",
-        "weekly-coast": 20,
-        "total-employee": 65,
+        "weekly_coast": 20,
+        "total_employee": 65,
         "revenue": 321
     }
 ]
