@@ -10,6 +10,8 @@ import PaidMarketing from "../Pages/Dashboard/PaidMarketing/PaidMarketing";
 import OrganicMarketing from "../Pages/Dashboard/OrganicMarketing/OrganicMarketing";
 import UpdateDocument from "../Pages/Dashboard/Shared/UpdateDocument";
 import CreateDocument from "../Pages/Dashboard/Shared/CreateDocument";
+import Login from "../Pages/Login/Login";
+import Signup from "../Pages/Signup/Signup";
 
 export const router = createBrowserRouter([
   {
@@ -19,6 +21,14 @@ export const router = createBrowserRouter([
       {
         path: "/",
         element: <Home></Home>,
+      },
+      {
+        path: "/login",
+        element: <Login></Login>,
+      },
+      {
+        path: "/signup",
+        element: <Signup></Signup>,
       },
     ],
   },
